@@ -1,6 +1,5 @@
 provider "aws" {
-  profile = "cd-test-transit"
-  region  = "us-east-1"
+  region = "us-east-1"
 }
 
 module "docker" {
