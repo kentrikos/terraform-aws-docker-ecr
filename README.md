@@ -1,4 +1,4 @@
-# terraform-aws-eks
+# terraform-aws-docker-ecr
 
 A terraform module to create an AWS ECR repository and populate it with a docker image built from a git repository.
 
